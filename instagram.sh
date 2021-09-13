@@ -11,7 +11,7 @@ printf "                \e[101m\e[1;77m  >>  Script By Gilmar Filho << \e[0m\n"
 printf "\n"
 printf "       \e[100m\e[1;77m >>  Youtube Channel : \e[1;96m Gilmar Filho \e[100m\e[1;77m << \e[0m\n"
 printf "\n"
-}
+
 echo 
 menu1(){
 printf "\e[1;92m[\e[0m\e[1;77m1\e[0m\e[1;92m]\e[0m\e[1;93m Embreve\e[0m\n"
